@@ -1,11 +1,11 @@
 ## Daniel Whitston
 [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
-Experienced web developer and manager, available from September 2020. Brighton-based, open to remote work, travel or relocation.
+Experienced web developer and manager, available from late May. London-based, open to remote work, travel or relocation.
 
 ## Experience
 
-**CTO at Policy in Practice (Nov 2018 - Sep 2020)**    Built an in-house development team to take over from outsourced remote developers, while maintaining production services and recreating the underlying infrastructure. I recruited my replacement before leaving for a sabbatical, and have provided support and transition assistance on a consulting basis since then.
+**CTO at Policy in Practice (Nov 2018 - Sep 2020)**    Built an in-house software function from the ground up to take over from an outsourced team after their departure, while maintaining the existing SaaS infrastructure, serving tens of thousands of users daily on B2B2C platforms, and gradually replacing many aspects of the legacy systems. I recruited my replacement before leaving for a sabbatical, and have provided support and transition assistance on a consulting basis since then.
 
 * Recruited and managed a team of 5 developers
 * Worked with the team to improve code quality, peer support, and their own self-management capabilities
@@ -19,10 +19,10 @@ Experienced web developer and manager, available from September 2020. Brighton-b
 * Advised the wider organisation on technology decisions
 * JavaScript, Node.js, TypeScript, Angular, MySQL, PostgreSQL, GitHub, AWS, CircleCI and Jira
 
-**Developer at Homeflow (Jul 2017 - Nov 2018)**    Mid-level developer in a Brighton-based dev team, primarily working on a panoply of Rails back end monoliths, with dozens of Linux servers and MySQL databases.
+**Developer at Homeflow (Jul 2017 - Nov 2018)**    Rails developer working on websites as a service for hundreds of estate agents and millions of weekly users, primarily working on backend monoliths, with dozens of Linux servers and MySQL databases.
 
-* Maintained existing code bases with millions of active users and hundreds of clients
-* Created new functionality and applications through regular discussion and review with clients and partners
+* Maintained large legacy code bases with millions of active users and hundreds of clients, and migrated them piecemeal to newer, more maintainable applications
+* Created new functionality in discussion with clients and partners
 * Implemented Rails major version upgrades
 * Code review, sprint planning, retrospective, improvements to CI processes
 * Ruby, Rails 2/3/4/5, RSpec, MySQL, Jira, GitHub, BitBucket
